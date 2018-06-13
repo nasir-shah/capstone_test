@@ -3,6 +3,7 @@
 
 while(code){
 
-  cout<<"progress"
+  cout<<"progress";
+  cout <<"Day to day prgress should be counted";
 
 }
